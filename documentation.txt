@@ -1,0 +1,23 @@
+1) Make back-end using npm
+/////**** username: Rishabhjain02     Password: Rishabh@2002*****/////
+2) In client start the npm server
+// JSX produces react elements
+3) Make new folder components - using React OOPs concept
+4) Import header component in App.js
+5) Import AppBar and Toolbar
+6) import the css in Style
+7) Done Frontend with Box in which playstore lik is there
+8) Now do for backend
+9) initialise npm init in server and 
+10) Establishing connection
+11) Nodemon--> fro refreshing files
+//12 validation of news objects
+
+ default data mein store karana
+ data ko show karana  ui mein vo data show kiya
+ 16 route bnao
+17) Displaying data to ui 
+18) CORS error:- Due to not handling cors error--------> By google  not allow to share data b/w different ports as 8000 
+port par express and 3000 par React
+19) Ek single article bnao
+20) us par responsiveness ke liye bnao
